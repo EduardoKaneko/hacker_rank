@@ -17,7 +17,7 @@ for elem in listofTuples :
 
 sort = sorted(sequence[:2])
 
-if elem[0] in listofTuples == elem[0:
+if elem[0] in listofTuples == elem[0]:
     for name in sort:
         print(name)
 else:
